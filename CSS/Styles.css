@@ -53,6 +53,20 @@ h4 {
   padding-top: 10%;
 }
 
+.back{
+  width:5%;
+  position:absolute;
+  right: 17%;
+  padding-top: 1%;
+}
+
+.contactus{
+  width:11%;
+  position:absolute;
+  right: 5%;
+  padding-top: 1.1%;
+}
+
 .HEART {
   width: 16%;
   position: absolute;
