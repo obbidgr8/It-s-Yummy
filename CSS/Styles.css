@@ -1,0 +1,584 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color:white;
+  font-size: 1rem;
+}
+
+h1 {
+  font-size: 1.75rem;
+  font-family: 'Montserrat', sans-serif;
+  color: #f39129;
+  margin-top: 0;
+  padding-top: 3%;
+}
+
+h2 {
+  font-size: 1.75rem;
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  margin-top: 0;
+  padding-top: 3%;
+}
+
+h3 {
+  font-size: 1.75rem;
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  margin-top: 0;
+  padding-top: 3%;
+}
+
+h4 {
+  font-size: 1.25rem;
+  font-family: 'Montserrat', sans-serif;
+  color: #f39129;
+  margin-top: 0;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding-top: 3%;
+  text-align: center;
+}
+
+.top-container {
+  width: auto;
+  margin-bottom: 0;
+  background-color:#F39129;
+  padding-bottom: 10%;
+}
+
+.LOGO {
+  width: 60%;
+  padding-top: 10%;
+}
+
+.HEART {
+  width: 16%;
+  position: absolute;
+  left: 82%;
+  top: 25%;
+}
+
+.HEART2 {
+  width: 16%;
+  position: absolute;
+  right: 82%;
+  top: 25%;
+}
+
+.middle-container {
+  width: auto;
+  margin-top: 0;
+}
+
+.BURGER{
+  width:15%;
+  position: absolute;
+  left: 12%;
+}
+
+
+
+.PIZZA{
+  width:15%;
+  position: absolute;
+  left: 30%;
+}
+
+.PASTA{
+  width:15%;
+  position: absolute;
+  left: 45%;
+}
+
+.SANDWHICH{
+  width:15%;
+  position: absolute;
+  left: 60%;
+}
+
+.NOODLE{
+  width:15%;
+  position: absolute;
+  left: 75%;
+}
+
+.bottom-container {
+  width: auto;
+}
+
+.FALOODA{
+  width:15%;
+  position: absolute;
+  left: 12%;
+  top: 150%;
+}
+
+.MOCK{
+  width:15%;
+  position: absolute;
+  left: 30%;
+  top: 150%;
+}
+
+.DESSERT{
+  width:15%;
+  position: absolute;
+  left: 45%;
+  top: 150%;
+}
+
+.ICECREAM{
+  width:15%;
+  position: absolute;
+  left: 60%;
+  top: 155%;
+}
+
+.MORE{
+  width:10%;
+  position: absolute;
+  left: 77%;
+  top: 160%;
+}
+
+.footer-container {
+  background-color: #F39129;
+  width: auto;
+  margin-top: 20%;
+  padding: 30px 0 10px;
+  word-spacing: 50px;
+}
+
+.mid-container{
+  width: auto;
+  background-color: white;
+  padding: 0;
+  margin: 0;
+}
+
+.contact-us{
+  width: 100%;
+  padding-bottom: 5%;
+}
+
+.btn {
+background: #F39129;
+background-image: gradient(top, #F39129, #F39129);
+background-image: -ms-linear-gradient(top, #F39129,#F39129);
+background-image: linear-gradient(to bottom, #F39129, #F39129);
+border-radius: 8px;
+font-family: 'Montserrat', sans-serif;
+color: #ffffff;
+font-size: 25px;
+text-decoration: none;
+padding-bottom: 0;
+position: absolute;
+top: 210%;
+left: 44%;
+margin: 0;
+}
+
+
+.trademark{
+  font-family: sans-serif;
+  color: white;
+  word-spacing: 0;
+  font-size: 15px;
+}
+
+.zomato-img{
+  width:8%;
+}
+
+.swiggy-img{
+  width:6%;
+}
+
+.whatsapp-img{
+  width:3%;
+}
+
+.One-Burger{
+  width: 25%;
+}
+
+.One-Pizza{
+  width: 25%;
+}
+
+.One-Pasta{
+  width: 25%;
+}
+
+.One-Sandwich{
+  width: 18%;
+}
+
+.One-Noodle{
+  width: 27%;
+}
+
+.One-Falooda{
+  width: 22%;
+}
+
+.One-Mocktail{
+  width: 15%
+}
+
+.fact{
+  width: 5%;
+  position: absolute;
+  top: 40%;
+  left: 10%;
+}
+
+.container-menu{
+  background-color: #F39129;
+  text-align: left;
+  padding-top: 4%;
+  padding-left: 8%;
+  padding-bottom: 10%;
+}
+
+.menu{
+  width: 20%;
+  position: relative;
+  left: 30%;
+  top: 120%;
+}
+
+.supandi{
+  width: 4%;
+  position: absolute;
+  left: 4%;
+  top: 100%;
+}
+
+.cc{
+  width: 6%;
+  position: absolute;
+  left: 2%;
+  top: 125%;
+}
+
+.ss{
+  width: 6.5%;
+  position: absolute;
+  left: 1%;
+  top: 155%;
+}
+
+.TM{
+  width: 5%;
+  position: absolute;
+  left: 2%;
+  top: 175%;
+}
+
+.CM{
+  width: 7%;
+  position: absolute;
+  left: 2%;
+  top: 195%;
+}
+
+.options{
+  position: absolute;
+  left: 15%;
+  top: 245%;
+}
+
+.eat{
+  position: absolute;
+  left: 5%;
+  top: 240%;
+  width: 8%;
+}
+
+
+.bottom-container{
+  background-color: white;
+  padding-bottom: 15%;
+}
+
+.rock{
+  width: 5%;
+  position: absolute;
+  left: 2.5%;
+  top: 100%;
+}
+
+.undertaker{
+  width: 10%;
+  position: absolute;
+  left: .25%;
+  top: 121%;
+}
+
+.stone{
+  width: 4.5%;
+  position: absolute;
+  left: 3%;
+  top: 145%;
+}
+
+.bret{
+  width: 5%;
+  position: absolute;
+  left: 3%;
+  top: 170%;
+}
+
+.cena{
+  width: 5%;
+  position: absolute;
+  left: 2%;
+  top: 192%;
+}
+
+.BURGER2{
+  width: 12%;
+  position: absolute;
+  left: 30%;
+  top: 237%;
+}
+
+.PIZZA2{
+  width: 15%;
+  position: absolute;
+  left: 50%;
+  top: 235%;
+}
+
+.PIZZA6{
+  width: 15%;
+  position: absolute;
+  left: 45%;
+  top: 235%;
+}
+
+.PASTA2{
+  width: 15%;
+  position: absolute;
+  left: 45%;
+  top: 235%;
+}
+
+.PASTA6{
+  width: 15%;
+  position: absolute;
+  left: 60%;
+  top: 235%;
+}
+
+.SANDWHICH2{
+  width: 13%;
+  position: absolute;
+  left: 62%;
+  top: 235%;
+}
+
+.NOODLE2{
+  width: 13%;
+  position: absolute;
+  left: 76%;
+  top: 235%;
+}
+
+.NOODLE3{
+  width: 13%;
+  position: absolute;
+  left: 77%;
+  top: 238%;
+}
+.PASTA3{
+  width: 15%;
+  position: absolute;
+  left: 70%;
+  top: 235%;
+}
+
+.BURGER3{
+  width: 12%;
+  position: absolute;
+  left: 77%;
+  top: 237%;
+}
+
+.bugs{
+  width: 7%;
+  position: absolute;
+  left: 2%;
+  top: 98%;
+}
+
+.singham{
+  width: 7%;
+  position: absolute;
+  left: 2%;
+  top: 122%;
+}
+
+.raju{
+  width: 6%;
+  position: absolute;
+  left: 3%;
+  top: 145%;
+}
+
+.popeye{
+  width: 6%;
+  position: absolute;
+  left: 3%;
+  top: 170%;
+}
+
+.tweety{
+  width: 4.5%;
+  position: absolute;
+  left: 3%;
+  top: 192%;
+}
+
+.super{
+  width: 8%;
+  position: absolute;
+  left: 1%;
+  top: 102%;
+}
+
+.batman{
+  width: 5%;
+  position: absolute;
+  left: 2%;
+  top: 125%;
+}
+
+.spiderman{
+  width: 7%;
+  position: absolute;
+  left: 2%;
+  top: 149%;
+}
+
+.hulk{
+  width: 8%;
+  position: absolute;
+  left: 1%;
+  top: 172%;
+}
+
+.ironman{
+  width: 5%;
+  position: absolute;
+  left: 2%;
+  top: 195%;
+}
+
+.bruce{
+  width: 6%;
+  position: absolute;
+  left: 1.5%;
+  top: 100%;
+}
+
+.kid{
+  width: 8%;
+  position: absolute;
+  left: .25%;
+  top: 125%;
+}
+
+.kung{
+  width: 5%;
+  position: absolute;
+  left: 2%;
+  top: 146%;
+}
+
+.jackie{
+  width: 7%;
+  position: absolute;
+  left: 2%;
+  top: 169%;
+}
+
+.shaolin{
+  width: 8%;
+  position: absolute;
+  left: 2%;
+  top: 197%;
+}
+
+.srk{
+  width: 7%;
+  position: absolute;
+  left: 1.5%;
+  top: 100%;
+}
+
+.bigb{
+  width: 6.5%;
+  position: absolute;
+  left: 1.5%;
+  top: 125%;
+}
+
+.salman{
+  width: 5%;
+  position: absolute;
+  left: 3%;
+  top: 148%;
+}
+
+.akshay{
+  width: 5%;
+  position: absolute;
+  left: 3%;
+  top: 172%;
+}
+
+.aamir{
+  width: 4.5%;
+  position: absolute;
+  left: 3%;
+  top: 197%;
+}
+
+.mogambo{
+  width: 10%;
+  position: absolute;
+  left: .5%;
+  top: 100%;
+}
+
+.gabbar{
+  width: 5.5%;
+  position: absolute;
+  left: 2%;
+  top: 122%;
+}
+
+.gogo{
+  width: 8%;
+  position: absolute;
+  left: 1%;
+  top: 148%;
+}
+
+.joker{
+  width: 6%;
+  position: absolute;
+  left: 1.5%;
+  top: 172%;
+}
+
+.thanos{
+  width: 8.5%;
+  position: absolute;
+  left: .75%;
+  top: 195%;
+}
